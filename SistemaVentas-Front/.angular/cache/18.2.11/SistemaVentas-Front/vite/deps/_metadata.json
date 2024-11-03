@@ -1,0 +1,55 @@
+{
+  "hash": "766f6392",
+  "configHash": "a00b4403",
+  "lockfileHash": "364aa324",
+  "browserHash": "e784cdac",
+  "optimized": {
+    "@angular/common/http": {
+      "src": "../../../../../../node_modules/@angular/common/fesm2022/http.mjs",
+      "file": "@angular_common_http.js",
+      "fileHash": "b5225f5f",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "818ac8a2",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "7cda9421",
+      "needsInterop": false
+    },
+    "@angular/platform-browser/animations/async": {
+      "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/animations/async.mjs",
+      "file": "@angular_platform-browser_animations_async.js",
+      "fileHash": "6807f6b2",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "7e198a1c",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-KCGKVPKF": {
+      "file": "chunk-KCGKVPKF.js"
+    },
+    "chunk-EMPYEOEP": {
+      "file": "chunk-EMPYEOEP.js"
+    },
+    "browser-HXCVTZER": {
+      "file": "browser-HXCVTZER.js"
+    },
+    "chunk-US5ZB5QU": {
+      "file": "chunk-US5ZB5QU.js"
+    },
+    "chunk-TO4CFXQS": {
+      "file": "chunk-TO4CFXQS.js"
+    }
+  }
+}
